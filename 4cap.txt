@@ -1,0 +1,181 @@
+Gerenciamento da Integracao do Projeto
+
+o gerenciamento de integracao basicamente inclui coordenar os processos de 
+gerenciamento, incluindo fazer escolhas sobre:
+
+- Alocacao de recursos
+- Balanceamento de demandas
+- Exame de todas as abordagens
+- Adaptacao dos processos para atender objetimos
+- Gerenciamento das interdependencias das areas de conhecimento
+
+Visao geral do gerenciamento de integracao de projeto:
+- termo de abertura: Documento oficializando o projeto
+- gerenciamneto do projeto: consolidar todos os planos em um 
+- gerenciar conhecimento: utilizar conhecimentos previos
+- controlar o trabalho: acompanhamento do que tem sido feito
+- controle de mudancas: revisar todas as solicitacoes de mudanca
+- encerrar o projeto: finalizacao do projeto
+
+Tailoring: processo de adaptacao dos processos, ferramenteas e 
+tecnicas de gerenciamento de projetos as necessidades 
+especificas de um projeto;
+	- Levar em consideracao o tamanho do projeto para definir processos
+basicamente personalizar o processo de gerencia de acordo com o projeto
+
+-----------------------------------------------------------------------------
+
+Termo de abertura de projeto
+	(documento formalizador de abertura de projeto)
+
+Entradas: 
+	- Documentos de negocios
+		- Business case (por que de fazer o projeto, mais importante)
+		- plano de gerenciamento de beneficios
+	- Acordos
+	
+Ferramentas:
+	- Opinioes de especialistas
+	- Coleta de dados e infos
+		- Brainstorming 
+	- Fatores ambientais
+		- Expectativas
+		- condicoes de mercado
+		- Qualidade
+	- Habilidades interpessoais
+		- Gerenciamento de conflitos
+		- reunioes
+Saida:
+	- Termo de abertura
+	- Registro de premissas
+
+Pode ser desenvolvido pelo contratante, gerente de projeto ou pelo 
+patrocinador 
+
+O termo de abertura de projeto deve ter:
+	- Finalidade
+	- Objetivos
+	- Requisitos de alto nivel
+	- Risco geral
+	- Recursos
+	- Gerente designado
+-----------------------------------------------------------------------------
+Plano de gerenciamento de projeto
+	(documento consolidador do projeto)
+
+Entradas: 
+	- Termo de abertura
+	- Saidas dos outros processos
+	- Fatores ambientais da empresa
+
+Ferramentas: 
+	- Opiniao especializada
+	- Coleta de dados
+		- entrevistas
+		- brainstormin
+	- Habilidades interpessoais
+		- gerenciamento de conflitos
+		- reunioes
+
+Saidas:
+	- Plano de gerenciamento do projeto
+
+Ele e o plano que define como o projeto sera executado monitorado controlado
+e encerrado, deve definir em termos de escopo, tempo e custo.
+
+Planos de gerenciamento auxiliares:
+
+- Plano de g. de escopo: estabele um escopo
+- PGd requisitos: estabelece como os requisitos serao analisados e gerenciados
+- PGd cronograma: monitoramento de cronograma
+- PGd custos: planejamento de custos
+- PGd qualidade: politicas de qualidade
+- PGd riscos: como realizar o gerenciamento de riscos
+
+Linha de base e o documento aprovado, deve existir uma para cada plano
+ 
+-----------------------------------------------------------------------------
+
+Orientar e gerenciar o trabalho do projeto
+	(gerenciar o trabalho e mudancas)
+
+Entradas:
+	- plano de gerenciamento de projeto
+	- documentos do projeto
+		- registro de mudancas
+		- registro de conhecimentos previos
+		- lista de marcos
+		- cronograma
+		- registro e relatorio de riscos
+	- solicitacoes de mudanca
+	- fatores ambientais da empresa
+
+Ferramentas:
+	- opinioes especializadas
+	- sistema de informacoes de gerenciamento de projetos
+	- reunioes
+
+Saidas: 
+	- Entregas
+	- dados de desempenho de trabalho
+	- solicitacoes de mudanca
+	- att dos documentos do projeto
+		- riscos
+		- lista de atividades
+		- aprendizado
+
+Nessa parte e onde os recursos sao alocados e as entregas definidas no plano
+sao feitas, ou seja, onde o trabalho acontece de fato. os pedidos de 
+mudanca sao analisados e cumpridos de acordo e a alocacao eficiente de 
+recursos tambem e responsabilidade.
+
+registro de mudancas: status de todas solicitacoes de mudanca
+registro de aprendizado: registra a causa e efeito das acoes
+reg lista de marcos: timeline das entregas 
+reg cronograma: duracao das atividades, datas e etc
+reg riscos: infos sobre possiveis riscos
+
+tipos de mudancas:
+	- preventiva: intencional, garantir o futuro desempenho dos trabalhos
+	- corretiva: intencional, realinha o desempenho dos trabalhos
+	- reparo: intencional: modificar um produto defeituoso
+	- atualizacoes: mudanca em documentacao, planos e etc.
+-----------------------------------------------------------------------------
+
+Gerenciar o conhecimento do projeto
+	(utilizar conhecimentos previos)
+
+Entradas:
+	- Plano de gerenciamento
+	- Docs do projeto
+		- aprendizado previo 
+		- equipes do projeto
+		- estrutura dos recursos
+	- entregas (produto)
+	- fatores ambientais da empresa
+
+Ferramentas: 
+	- Opiniao esp.
+	- gerenciamento de conhecimentos
+	- gerencimanento de informacoes
+	- hab. interpessoais
+		- escuta ativa
+		- lideranca
+		- rede de relacionamentos
+
+Saidas:
+	- Registro das acoes aprendidas
+	- atualizacao do plano de gerenciamento
+	- atualizacoes de ativos de processos organizacionais
+
+O gerenciamento de conhecimento se baseia no conhecimento explicito 
+(o que e facilmente reconhecido, imagens e etc) e tacito (conhecimento
+pessoal, experiencias e know-how) e consiste em reutilizar estes para a 
+criacao de novos conhecimentos. Nao apenas documenta-lo mas pratica-lo
+
+Garantir que a expertise da equipe seja utilizada durante e apos o projeto.
+
+-----------------------------------------------------------------------------
+
+Monitorar o trabalho
+	(
