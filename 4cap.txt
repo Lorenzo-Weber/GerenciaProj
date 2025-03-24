@@ -6,7 +6,7 @@ gerenciamento, incluindo fazer escolhas sobre:
 - Alocacao de recursos
 - Balanceamento de demandas
 - Exame de todas as abordagens
-- Adaptacao dos processos para atender objetimos
+- Adaptacao dos processos para atender objetivos
 - Gerenciamento das interdependencias das areas de conhecimento
 
 Visao geral do gerenciamento de integracao de projeto:
@@ -21,7 +21,7 @@ Tailoring: processo de adaptacao dos processos, ferramenteas e
 tecnicas de gerenciamento de projetos as necessidades 
 especificas de um projeto;
 	- Levar em consideracao o tamanho do projeto para definir processos
-basicamente personalizar o processo de gerencia de acordo com o projeto
+	basicamente personalizar o processo de gerencia de acordo com o projeto
 
 -----------------------------------------------------------------------------
 
